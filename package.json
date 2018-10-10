@@ -1,6 +1,6 @@
 {
   "name": "Bounty0x_Community_Bot",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Bounty0x Community Bot to mange our Telegram group",
   "main": "index.js",
   "scripts": {
